@@ -1,7 +1,6 @@
 # KlemanOS web
 This web os is packed full of features ***AND MUCH MORE TO COME***
-![image](https://github.com/TerbiumOS/webOS/blob/main/Terbium.png?raw=true)
-
+![image]
 
 **NOTE** More Services are supported such as  Render, and Netlify however there is not a quick url at this time also keep in mind that on Glitch and Replit Proxies are banned. Refer to [this document](https://github.com/titaniumnetwork-dev/Ultraviolet-App/wiki/Circumventing-deployment-restrictions) to view ways to curcomvent this
 
